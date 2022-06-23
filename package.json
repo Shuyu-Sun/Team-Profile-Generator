@@ -1,0 +1,19 @@
+{
+  "name": "week10-homework-team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shuyu-Sun/week10-homework-Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shuyu-Sun/week10-homework-Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Shuyu-Sun/week10-homework-Team-Profile-Generator#readme"
+}

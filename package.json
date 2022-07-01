@@ -2,7 +2,7 @@
   "name": "week10-homework-team-profile-generator",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "jest"
   },
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Shuyu-Sun/week10-homework-Team-Profile-Generator#readme",
   "devDependencies": {
     "jest": "^28.1.1"
+  },
+  "dependencies": {
+    "inquirer": "^6.3.1"
   }
 }

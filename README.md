@@ -19,4 +19,4 @@ View walk through video here -
 
 If you have any questions about this projects, \
 please contact me directly at stellasunmail@gmail.com;\
-You can view more of my projects at https://github.com/Shuyu-Sun.1
+You can view more of my projects at https://github.com/Shuyu-Sun
